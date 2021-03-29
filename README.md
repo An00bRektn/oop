@@ -3,7 +3,7 @@ Code developed by An00bRektn for CPSC-24500 (SP21)
 
 Build Instructions  
 1. Keep all java files from a specific directory in the same directory  
-2. Run the following Powershell commands  
+2. Run the following shell commands (supported on all devices with Java installed)  
 
 ```shell
 > javac *.java
