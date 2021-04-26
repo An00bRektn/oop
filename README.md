@@ -1,5 +1,5 @@
-# oop
-Code developed by An00bRektn for CPSC-24500 (SP21)
+# Object Oriented Programming
+> Code developed by An00bRektn for CPSC-24500 (SP21)
 
 Build Instructions  
 1. Keep all java files from a specific directory in the same directory  
@@ -16,5 +16,7 @@ Description of Projects:
 3. FaceDraw: Draws random faces in a window  
 4. Mosaic: Draws a pretty mosaic of squares and circles. Clicking on a tile will turn it into a face  
 5. SwissArmyKnife: A sandbox environment to practice and demo specific functions such as scraping and multithreading  
+6. Thunderbird: A seating chart that pulls seating info from static websites with JSON files
 
 License: MIT
+
