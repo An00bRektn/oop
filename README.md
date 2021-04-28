@@ -18,5 +18,5 @@ Description of Projects:
 5. SwissArmyKnife: A sandbox environment to practice and demo specific functions such as scraping and multithreading  
 6. Thunderbird: A seating chart that pulls seating info from static websites with JSON files
 
-License: MIT
+All code is licensed MIT, with the exception of Thunderbird, which is under the BSD-3 Clause, in accordance with the original ThunderbirdLite code from Eric Pogue.
 
